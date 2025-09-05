@@ -2,3 +2,4 @@ myenv
 demo.py
 two.py
 api.py
+.env
