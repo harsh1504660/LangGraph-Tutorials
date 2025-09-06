@@ -1,0 +1,3 @@
+[submodule "langsmith-masterclass"]
+	path = langsmith-masterclass
+	url = https://github.com/campusx-official/langsmith-masterclass.git

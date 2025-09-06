@@ -2,8 +2,10 @@ myenv
 demo.py
 two.py
 api.py
-.env
+*.env
 *.bin
 *.db-wal
 *.db-shm
 __pycache__/
+
+langsmith-masterclass\.env
