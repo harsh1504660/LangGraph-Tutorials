@@ -3,3 +3,7 @@ demo.py
 two.py
 api.py
 .env
+*.bin
+*.db-wal
+*.db-shm
+__pycache__/
